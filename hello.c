@@ -1,7 +1,6 @@
 /**
  * Author: Mason Padgett
- *         mpadgett2@huskers.unl.edu
- * Date: 2022/8/23
+ * Date: 2022/8/24
  *
  * A simple hello world program in C
  *
@@ -11,9 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Hello, I'm Mason Padgett\n");
 
-  printf("Mason Padgett\n");
+  printf("Major is Mathematics\n");
 
   return 0;
-}
