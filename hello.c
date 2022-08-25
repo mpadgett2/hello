@@ -14,5 +14,7 @@ int main(int argc, char **argv) {
 
   printf("Major is Mathematics\n");
 
+  printf("Minor is Spanish\n");
+
   return 0;
 }
