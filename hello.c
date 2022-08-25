@@ -15,3 +15,4 @@ int main(int argc, char **argv) {
   printf("Major is Mathematics\n");
 
   return 0;
+}
